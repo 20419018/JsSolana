@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20419018/JsSolana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20419018/JsSolana/issues"
+  },
+  "homepage": "https://github.com/20419018/JsSolana#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  },
+  "description": ""
+}
